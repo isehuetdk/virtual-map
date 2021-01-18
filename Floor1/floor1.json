@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/ava\/isehuetdk.github.io\/virtual-map\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,

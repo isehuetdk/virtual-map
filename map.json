@@ -1035,19 +1035,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":23,
-         "firstgid":321,
-         "image":"extra-tiles.png",
-         "imageheight":928,
-         "imagewidth":736,
-         "margin":0,
-         "name":"extra-tiles",
-         "spacing":0,
-         "tilecount":667,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
