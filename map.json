@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Terrasse\/terrasse.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/ava\/isehuetdk.github.io\/virtual-map\/Terrasse\/terrasse.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Floor1\/floor1.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/ava\/isehuetdk.github.io\/virtual-map\/Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
