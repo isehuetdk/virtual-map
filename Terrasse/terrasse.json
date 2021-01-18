@@ -52,7 +52,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -958,6 +958,15 @@
                         }]
                 }, 
                 {
+                 "id":213,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":214,
                  "properties":[
                         {
@@ -1034,7 +1043,7 @@
                  "id":299,
                  "properties":[
                         {
-                         "name":"collade",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1043,7 +1052,7 @@
                  "id":300,
                  "properties":[
                         {
-                         "name":"collade",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
